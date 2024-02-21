@@ -1,7 +1,7 @@
 from datetime import date
 
 
-class Copperhead:
+class KingSnake:
     def __init__(self, name, species, food):
         self.name = name
         self.species = species
